@@ -1,0 +1,10 @@
+C:\Users\alexi\source\repos\KeyGen\KeyGen\bin\Debug\KeyGen.exe.config
+C:\Users\alexi\source\repos\KeyGen\KeyGen\bin\Debug\KeyGen.exe
+C:\Users\alexi\source\repos\KeyGen\KeyGen\bin\Debug\KeyGen.pdb
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.Form1.resources
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.Properties.Resources.resources
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.csproj.GenerateResource.cache
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.exe
+C:\Users\alexi\source\repos\KeyGen\KeyGen\obj\Debug\KeyGen.pdb
